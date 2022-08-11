@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700;900&display=swap');
+
+.container{
+    text-align: center;
+    margin-top: 40px;
+    background-color: rgb(243, 243, 243);
+    position: relative;
+}
+
+.title{
+    color: rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.LampOff{
+    height: 220px;
+    width: 170px;
+    background: url("./imagens/LâmpadaApagada.jfif") no-repeat;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.LampOn{
+    height: 220px;
+    width: 170px;
+    background: url("./imagens/LâmpadaAcesa.jpeg") no-repeat;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.BrokenLamp{
+    height: 220px;
+    width: 170px;
+    background: url("./imagens/LâmpadaQuebrada.jfif") no-repeat;
+    margin-top: 30px;
+    margin: auto;
+}
